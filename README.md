@@ -42,7 +42,7 @@
 <a href="mailto:marnei.machado@gmail.com" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-Gmail-05122A?style=flat&logo=gmail" alt="linkedin"/>
 </a>
-<a href="wa.me//5555997077891" target="_blank">
+<a href="https://wa.me//5555997077891" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-WhatsApp-05122A?style=flat&logo=whatsapp" alt="linkedin"/>
 </a>
 <a href="https://codepen.io/Pipos0" target="_blank">
