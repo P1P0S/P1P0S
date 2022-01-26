@@ -33,17 +33,20 @@
 ## 📱 &nbsp;Social Links
 
 <p align="left" style="background:yellow">
-<a href="https://codepen.io/Pipos0" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-CodePen-05122A?style=flat&logo=codepen" alt="codepen"/>
-</a>
 <a href="https://www.linkedin.com/in/marnei-leandro-machado-b4210722a/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-Linkedin-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
-<a href="https://www.linkedin.com/in/marnei-leandro-machado-b4210722a/" target="_blank">
+<a href="https://discordapp.com/users/375407448795774976" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-discord-05122A?style=flat&logo=discord" alt="linkedin"/>
 </a>
-<a href="https://www.linkedin.com/in/marnei-leandro-machado-b4210722a/" target="_blank">
+<a href="mailto:marnei.machado@gmail.com" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-Gmail-05122A?style=flat&logo=gmail" alt="linkedin"/>
+</a>
+<a href="wa.me//5555997077891" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-WhatsApp-05122A?style=flat&logo=whatsapp" alt="linkedin"/>
+</a>
+<a href="https://codepen.io/Pipos0" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-CodePen-05122A?style=flat&logo=codepen" alt="codepen"/>
 </a>
 </p>
 
