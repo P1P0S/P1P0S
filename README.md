@@ -24,6 +24,7 @@
 ## 🛠 &nbsp;Future Skill's
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
+![Electron](https://img.shields.io/badge/-Electron-05122A?style=flat&logo=electron)&nbsp;
 ![MongoDB](https://img.shields.io/badge/-Mongo%20DB-05122A?style=flat&logo=mongodb)&nbsp;
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
 ![SQLite](https://img.shields.io/badge/-SQLite-05122A?style=flat&logo=sqlite)&nbsp;
