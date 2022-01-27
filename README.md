@@ -37,10 +37,13 @@
   <img align="center" src="https://img.shields.io/badge/-Linkedin-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
 <a href="https://discordapp.com/users/375407448795774976" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-discord-05122A?style=flat&logo=discord" alt="linkedin"/>
+  <img align="center" src="https://img.shields.io/badge/-Discord-05122A?style=flat&logo=discord" alt="linkedin"/>
 </a>
 <a href="mailto:marnei.machado@gmail.com" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-Gmail-05122A?style=flat&logo=gmail" alt="linkedin"/>
+</a>
+<a href="https://t.me/P1P0S" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-Telegram-05122A?style=flat&logo=telegram" alt="codepen"/>
 </a>
 <a href="https://wa.me//5555997077891" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-WhatsApp-05122A?style=flat&logo=whatsapp" alt="linkedin"/>
