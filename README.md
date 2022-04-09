@@ -33,24 +33,24 @@
 
 ## 📱 &nbsp;Social Links
 
-<p align="left" style="background:yellow">
+<p align="left">
 <a href="https://www.linkedin.com/in/marnei-leandro-machado-b4210722a/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-Linkedin-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+  <img align="center" src="https://img.shields.io/badge/-Linkedin-05122A?style=flat&logo=linkedin"/>
 </a>
 <a href="https://discordapp.com/users/375407448795774976" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-Discord-05122A?style=flat&logo=discord" alt="linkedin"/>
+  <img align="center" src="https://img.shields.io/badge/-Discord-05122A?style=flat&logo=discord"/>
 </a>
 <a href="mailto:marnei.machado@gmail.com" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-Gmail-05122A?style=flat&logo=gmail" alt="linkedin"/>
+  <img align="center" src="https://img.shields.io/badge/-Gmail-05122A?style=flat&logo=gmail"/>
 </a>
 <a href="https://t.me/P1P0S" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-Telegram-05122A?style=flat&logo=telegram" alt="codepen"/>
+  <img align="center" src="https://img.shields.io/badge/-Telegram-05122A?style=flat&logo=telegram"/>
 </a>
 <a href="https://wa.me//5555997077891" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-WhatsApp-05122A?style=flat&logo=whatsapp" alt="linkedin"/>
+  <img align="center" src="https://img.shields.io/badge/-WhatsApp-05122A?style=flat&logo=whatsapp"/>
 </a>
 <a href="https://codepen.io/Pipos0" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-CodePen-05122A?style=flat&logo=codepen" alt="codepen"/>
+  <img align="center" src="https://img.shields.io/badge/-CodePen-05122A?style=flat&logo=codepen"/>
 </a>
 </p>
 
